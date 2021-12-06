@@ -1,6 +1,11 @@
 # Privacy Policy
 
-Built the AppName app as a Free app. This service is provided by at no cost and is intended for use as is.
+1. The term “personal information”, as used herein, is defined as any information that identifies or can be used to identify, contact, or locate a person to whom such information relates. The personal information we collect will be the subject of this privacy policy, as amended from time to time.
+1. The BUDGETIM app uses your email address for registration, and we do not ask for a phone number or any other information about you.
+1. We do not sell content.
+1. The security of your personal information will not be compromised.
+1. We do not ask for location information through our mobile app.
+1. We do not send email newsletters.
 
 ## Contact Us
 
